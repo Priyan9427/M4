@@ -258,9 +258,17 @@ int compare(char a[],char b[])
 
 ![443509704-6c0be691-4327-4fce-8ecc-7c1f4c6afadd](https://github.com/user-attachments/assets/9368d929-a49a-4810-99db-57f44c0db01b)
 
+
+
+
+
+
+
  
 
 ## RESULT
+
+
 
 
 
